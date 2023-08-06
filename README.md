@@ -1,16 +1,15 @@
-### Hi there 👋
+### Matts52
 
-<!--
-**Matts52/Matts52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📊 GitHub Stats
 
-Here are some ideas to get you started:
+![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matts52&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📈 Most Used Languages
+
+![Matt's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matts52&theme=radical)
+
+#### 📈 GitHub Activity Graph
+
+![Matt's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Matts52&bg_color=1F2430&color=91A5C3&line=9F6C99&point=FFFFFF&hide_border=true)
+
+
