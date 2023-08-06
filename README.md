@@ -1,12 +1,5 @@
 ### Matts52
 
-#### 📊 GitHub Stats
-
-![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matts52&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-#### 📈 Most Used Languages
-
-![Matt's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matts52&theme=radical)
-
-
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Matts52&theme=vue-dark" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matts52&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&theme=vue-dark" />
 
